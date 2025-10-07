@@ -8,6 +8,7 @@ Este é o repositório de **Bruno Bianconcini**.
 
 ## Tecnologias que eu uso:
 
+[![My Skills](https://skillicons.dev/icons?i=git,github,githubactions,html,css,javascript,typescript,java,spring,maven,gradle,kafka,rabbitmq,jenkins,grafana,linux,docker,k8s,vscode,aws,azure,postgres,mongodb,terraform,docker,postman)](https://skillicons.dev)
 Backend: 
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java)
 ![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
